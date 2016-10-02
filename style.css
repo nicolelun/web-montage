@@ -25,7 +25,7 @@ header {
 	top: 33%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	width: 350px;
+	width: 420px;
 	margin: 0 auto;
 	text-align: left;
 	/*font-family: 'Libre Baskerville', serif;*/
@@ -34,7 +34,8 @@ header {
 	font-size: 14px;	
 	color: #5C005D;
 	opacity: 0.75;
-	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 	border-left: 2px dotted purple;
 	border-right: 2px dotted purple;
 }
